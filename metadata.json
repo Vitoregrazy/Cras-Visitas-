@@ -1,0 +1,5 @@
+{
+  "name": "CRAS Agendamentos",
+  "description": "Sistema de agendamento de visitas e gerenciamento para o CRAS, com funcionalidades de OCR para extração de dados, geração de relatórios e controle de usuários.",
+  "requestFramePermissions": []
+}
